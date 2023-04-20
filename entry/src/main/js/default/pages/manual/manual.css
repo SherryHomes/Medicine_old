@@ -1,0 +1,126 @@
+.container {
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+/*    top: 24px;*/
+    margin: 21px 16px;
+/*    border: 1px;*/
+}
+.text-left {
+    flex:1;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.text-center {
+    flex: 1;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.text-right{
+    flex:1;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: right;
+    opacity: 0;
+}
+.big{
+    width: 100%;
+/*    border: 1px;*/
+}
+.img{
+    width: 20px;
+    height: 340px;
+    margin-top: 23px;
+}
+.mid{
+    flex-direction: column;
+    margin-left: 6px;
+    margin-top: 15px;
+}
+.text1{
+    height: 35px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.row{
+    align-items: center;
+    width: 100%;
+    margin-top: 2px;
+}
+.textarea{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(166, 166, 166, 1);
+    border:1px;
+    border-color:rgba(166, 166, 166, 1);
+    background-color: white;
+    text-align: center;
+    width: 267px;
+    height: 35px;
+    margin-right: 7px;
+}
+.img2{
+    width: 28px;
+    height: 28px;
+}
+.text2{
+    margin-top: 8px;
+    height: 35px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.con1{
+    border-radius: 8px;
+    width: 267px;
+    height: 187px;
+    background-color: rgba(224, 239, 255, 1);
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.img3{
+    width: 114px;
+    height: 158px;
+    margin-right: 8px;
+}
+.img4{
+    width: 114px;
+    height: 158px;
+}
+.text3{
+    width: 176px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(166, 166, 166, 1);
+}
+.img5{
+    width: 44px;
+    height: 44px;
+}
+.con2{
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8px;
+    margin-right: 23px;
+}
+.text4{
+    font-size: 16px;
+    font-weight: 700;
+    height: 24px;
+}
+button{
+    width: 216px;
+    height: 46px;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 8px;
+    background-color: rgba(32, 134, 250, 1);
+    box-shadow: 3px 3px 10px #888888;
+    position: fixed;
+    bottom: 10px;
+    left: 70px;
+}

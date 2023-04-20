@@ -1,0 +1,15 @@
+<div class="container">
+    <div>
+        <text class="text-left" onclick="back">返回</text>
+        <text class="text-center">添加备注</text>
+        <text class="text-right">不见</text>
+    </div>
+    <div class="big">
+        <textarea>点击此处添加备注...</textarea>
+    </div>
+    <image class="img" src="/common/images/manual/micro.png"></image>
+    <div class="button" onclick="onclick">
+        <image class="img2" src="/common/images/remark/bingo.png"></image>
+        <text class="text">全部完成</text>
+    </div>
+</div>

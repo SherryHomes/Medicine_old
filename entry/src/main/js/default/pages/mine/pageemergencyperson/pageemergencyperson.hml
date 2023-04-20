@@ -1,0 +1,96 @@
+<div class="container">
+    <div class="title">
+        <text class="back" onclick="back">
+            返回
+        </text>
+        <text class="main">
+            紧急联系人
+        </text>
+        <text class="jus">
+            1
+        </text>
+    </div>
+    <div class="epbody">
+        <image class="sidebar" src="/common/images/微信图片_20230419164743.png">
+
+        </image>
+        <div class="select-area">
+            <div class="sub">
+    <div class="subtilte">
+        <text class="information">
+            姓名
+        </text>
+        <text class="edit">
+            编辑
+        </text>
+            </div>
+            <div class="select">
+            <textarea>
+            点击输入姓名
+</textarea>
+<image class="recording" src="/common/images/微信图片_20230419170043.png">
+
+</image>
+</div>
+        </div>
+            <div class="sub">
+    <div class="subtilte">
+        <text class="information">
+            关系
+        </text>
+        <text class="edit">
+            编辑
+        </text>
+            </div>
+                        <div class="select">
+<button class="choice">
+女儿
+</button>
+<button class="choice">
+儿子
+</button>
+<button class="choice">
+老伴
+</button>
+<button class="choice">
+姐姐
+</button>
+                        </div>
+                                                <div class="select">
+<button class="choice">
+妹妹
+</button>
+<button class="choice">
+弟弟
+</button>
+<button class="choice">
+哥哥
+</button>
+<button class="choice">
+朋友
+</button>
+                        </div>
+        </div>
+<div class="sub">
+    <div class="subtilte">
+        <text class="information">
+            电话号码
+        </text>
+        <text class="edit">
+            编辑
+        </text>
+            </div>
+            <div class="select">
+            <textarea>
+            点击输入电话号码
+</textarea>
+<image class="recording" src="/common/images/微信图片_20230419170043.png">
+
+</image>
+</div>
+        </div>
+    </div>
+        <button class="bottom">
+确认添加    </button>
+</div>
+</div>

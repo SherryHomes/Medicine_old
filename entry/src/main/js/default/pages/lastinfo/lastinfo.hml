@@ -1,0 +1,44 @@
+<div class="container">
+    <div>
+        <text class="text-left" onclick="back">返回</text>
+        <text class="text-center">确认信息</text>
+        <text class="text-right">不见</text>
+    </div>
+    <div class="big">
+        <div class="con1">
+            <div class="circle"></div>
+            <text class="text1">药物名称</text>
+        </div>
+        <div class="con2">
+            <text class="text2">罗红霉素胶囊</text>
+            <text class="text3">胶囊</text>
+            <text class="text4">编辑</text>
+        </div>
+        <div class="con3">
+            <div class="circle"></div>
+            <text class="text1">服药周期</text>
+        </div>
+        <div style="align-items: center;">
+            <div class="con4">
+                <div class="con5">
+                    <text class="text5">每天3次</text>
+                    <text class="text6">间隔8小时</text>
+                </div>
+                <text class="text7">一共吃5天</text>
+            </div>
+            <text class="text4">编辑</text>
+        </div>
+        <div class="con3">
+            <div class="circle"></div>
+            <text class="text1">药品照片</text>
+        </div>
+        <div style="align-items: center;">
+            <image class="img" src="/common/images/lastinfo/medicinepic.png"></image>
+            <text class="text4">编辑</text>
+        </div>
+    </div>
+    <div class="button" onclick="onclick">
+        <image class="img2" src="/common/images/remark/bingo.png"></image>
+        <text class="text">添加药物</text>
+    </div>
+</div>

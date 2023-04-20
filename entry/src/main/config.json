@@ -1,0 +1,76 @@
+{
+  "app": {
+    "vendor": "example",
+    "bundleName": "com.example.three",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "mainAbility": "com.example.three.MainAbility",
+    "deviceType": [
+      "phone",
+      "tablet",
+      "tv",
+      "wearable"
+    ],
+    "abilities": [
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "visible": true,
+        "name": "com.example.three.MainAbility",
+        "icon": "$media:icon",
+        "description": "$string:mainability_description",
+        "label": "$string:entry_MainAbility",
+        "type": "page",
+        "launchType": "standard"
+      }
+    ],
+    "distro": {
+      "moduleType": "entry",
+      "installationFree": false,
+      "deliveryWithInstall": true,
+      "moduleName": "entry"
+    },
+    "package": "com.example.three",
+    "name": ".MyApplication",
+    "js": [
+      {
+        "pages": [
+          "pages/index/index",
+          "pages/add_medicine/add_medicine",
+          "pages/identify/identify",
+          "pages/manual/manual",
+          "pages/eatime/eatime",
+          "pages/remark/remark",
+          "pages/lastinfo/lastinfo",
+          "pages/mine/page1/page1",
+          "pages/mine/pagebinding/pagebinding",
+          "pages/mine/indexhhh/indexhhh",
+          "pages/mine/pageemergencycontact/pageemergencycontact",
+          "pages/mine/pageemergencyperson/pageemergencyperson",
+          "pages/mine/pagemanagerment/pagemanagerment",
+          "pages/mine/pagenotification/pagenotification",
+          "pages/mine/pageprivacy/pageprivacy",
+          "pages/mine/pagesetting/pagesetting"
+        ],
+        "name": "default",
+        "window": {
+          "designWidth": 720,
+          "autoDesignWidth": true
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+<div class="container">
+    <div class="title">
+        <text class="back" onclick="back">
+            返回
+        </text>
+        <text class="main">
+            设备管理
+        </text>
+        <text class="jus">
+            1
+        </text>
+    </div>
+    <div class="subtilte">
+        <text class="information">
+            我的设备
+        </text>
+        <text class="edit">
+            1
+        </text>
+    </div>
+    <div class="select-area">
+        <div class="select">
+          <image class="show" src="/common/images/微信图片_20230419163741.png">
+          </image>
+            <text class="tl">
+                HUAWEI WATCH
+            </text>
+            <button class="display">
+                已连接
+            </button>
+        </div>
+    </div>
+    <button class="bottom">
+        添加设备
+    </button>
+</div>

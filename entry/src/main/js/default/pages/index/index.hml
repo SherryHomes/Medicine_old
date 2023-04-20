@@ -1,0 +1,31 @@
+<div class="container">
+    <div>
+            <text class="text-left">全部药物</text>
+            <text class="text-right">编辑</text>
+    </div>
+    <div class="t3">
+        <image class="img" src="/common/images/medicine.png"></image>
+        <text>罗红霉素胶囊</text>
+    </div>
+    <div class="t3">
+        <image class="img" src="/common/images/medicine.png"></image>
+        <text>非诺贝特胶囊</text>
+    </div>
+    <div class="t3">
+        <image class="img" src="/common/images/water.png"></image>
+        <text>999感冒灵颗粒</text>
+    </div>
+    <div class="t3">
+        <image class="img" src="/common/images/medi3.png"></image>
+        <text>咳喘宁口服液</text>
+    </div>
+    <div class="t3">
+        <image class="img" src="/common/images/medi4.png"></image>
+        <text>布洛芬缓释片</text>
+    </div>
+    <div class="t3">
+        <image class="img" src="/common/images/medi5.png"></image>
+        <text>非洛地平缓释片</text>
+    </div>
+    <button onclick="onclick">添加药物</button>
+</div>

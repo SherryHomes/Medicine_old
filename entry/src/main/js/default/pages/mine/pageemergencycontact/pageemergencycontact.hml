@@ -1,0 +1,44 @@
+<div class="container">
+  <div class="title">
+        <text class="back" onclick="back">
+            返回
+        </text>
+        <text class="main">
+                紧急联系人
+            </text>
+        <text class="jus">
+            1
+        </text>
+    </div>
+    <div class="subtilte">
+        <text class="information">
+            我的紧急联系人
+        </text>
+        <text class="edit">
+            编辑
+        </text>
+
+    </div>
+    <div class="select-area">
+        <div class="select">
+            <text class="tl">
+                高*楠
+            </text>
+            <text class="tr">
+                女儿
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl">
+                高*宇
+            </text>
+            <text class="tr">
+                儿子
+            </text>
+        </div>
+<button onclick="onclick">
+添加联系人
+</button>
+    </div>
+</div>
+

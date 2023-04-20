@@ -1,0 +1,45 @@
+<div class="container">
+    <div>
+        <text class="text-left" onclick="back">返回</text>
+        <text class="text-center">手动输入</text>
+        <text class="text-right">不见</text>
+    </div>
+    <div class="big">
+        <div>
+            <image class="img" src="/common/images/manual/side.png"></image>
+            <div class="mid">
+                <text class="text1">药物名称</text>
+                <div class="row">
+                    <textarea class="textarea">点击输入药物名称...</textarea>
+                    <image class="img2" src="/common/images/manual/micro.png"></image>
+                </div>
+                <text class="text2">药物照片</text>
+                <div class="con1">
+                    <image class="img3" src="/common/images/manual/photo.png"></image>
+                    <image class="img4" src="/common/images/manual/picture.png"></image>
+                </div>
+                <text class="text2">药物类型</text>
+                <text class="text3">点击图标选择药物的类型</text>
+                <div>
+                    <div class="con2">
+                        <image class="img5" src="/common/images/manual/medipice.png"></image>
+                        <text class="text4">药片</text>
+                    </div>
+                    <div class="con2">
+                        <image class="img5" src="/common/images/manual/bottle.png"></image>
+                        <text class="text4">粉状冲剂</text>
+                    </div>
+                    <div class="con2">
+                        <image class="img5" src="/common/images/manual/green.png"></image>
+                        <text class="text4">口服液</text>
+                    </div>
+                    <div class="con2">
+                        <image class="img5" src="/common/images/manual/medi.png"></image>
+                        <text class="text4">胶囊</text>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button onclick="onclick">完成，下一步</button>
+</div>

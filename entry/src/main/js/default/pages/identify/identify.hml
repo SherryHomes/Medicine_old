@@ -1,0 +1,44 @@
+<div class="container">
+    <text class="title">识别结果</text>
+    <div class="big">
+        <div class="middle">
+            <text class="text">熊胆救心丸</text>
+            <div class="small">
+                <text class="text1">处方药</text>
+                <text class="text2">中药</text>
+            </div>
+            <div class="imo">
+                <div class="square"></div>
+                <text class="text-big">功能主治</text>
+                <div class="line"></div>
+            </div>
+            <text class="text3">用于心气不足所致的胸痹，症见胸闷、心痛、气短、心悸。</text>
+            <div class="imo">
+                <div class="square"></div>
+                <text class="text-big">主要成分</text>
+                <div class="line"></div>
+            </div>
+            <text class="text3">熊胆粉、蟾酥、冰片、人工麝香、人参、珍珠、人工牛黄、猪胆粉、水牛角浓缩粉。</text>
+            <div class="down">
+                <image  class="img" src="/common/images/xiongdan.png"></image>
+                <image class="img" src="/common/images/xiongdan2.png"></image>
+            </div>
+            <div class="last">
+                <div class="last1">
+                    <image class="icon" src="/common/images/what.png"></image>
+                    <text class="textI">识别是否正确？</text>
+                </div>
+                <div class="last2">
+                    <div class="last3" onclick="back">
+                        <image class="icon" src="/common/images/false.png"></image>
+                        <text>重新识别</text>
+                    </div>
+                    <div class="last4">
+                        <image class="icon" src="/common/images/right.png"></image>
+                        <text onclick="onclick">下一步</text>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

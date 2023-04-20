@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="title">
+        <text class="back" onclick="back">
+            返回
+        </text>
+        <text class="main">
+            隐私保护
+        </text>
+        <text class="jus">
+            1
+        </text>
+    </div>
+    <div class="body">
+        <image class="ima" src="/common/images/微信图片_20230419160302.png"></image>
+        <text>
+            此应用程序不使用服务器以存储您的数据。开发者没有权限访问您的数据。您的所有数据仅在当前设备上存储。
+        </text>
+    </div>
+</div>

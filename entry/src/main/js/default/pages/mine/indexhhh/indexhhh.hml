@@ -1,0 +1,43 @@
+<div class="container">
+    <div class="info">
+        <image class="head" src="/common/images/Ellipse 87.png"></image>
+        <text class="title">
+            高*军
+        </text>
+    </div>
+    <div class="select-area">
+        <div class="select">
+            <text class="tl" onclick="onclick1">
+                个人信息
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl" onclick="onclick2">
+                紧急联系人
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl" onclick="onclick3">
+                隐私保护
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl" onclick="onclick4">
+                设置
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+    </div>
+</div>
+

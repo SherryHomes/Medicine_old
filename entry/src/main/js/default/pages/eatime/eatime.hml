@@ -1,0 +1,55 @@
+<div class="container">
+    <div>
+        <text class="text-left" onclick="back">返回</text>
+        <text class="text-center">吃药时间</text>
+        <text class="text-right">不见</text>
+    </div>
+    <div class="big">
+        <div>
+            <image class="img" src="/common/images/eatime/side2.png"></image>
+            <div class="mid">
+                <text class="text1">重复周期</text>
+                <div class="con1">
+                    <text class="text2">每天</text>
+                    <text class="text3">每周</text>
+                </div>
+                <div class="con2">
+                    <text class="text1">吃药频率</text>
+                    <div class="con3">
+                        <text class="text4">一天吃</text>
+                        <text class="text5">3</text>
+                        <text class="text6">次</text>
+                        <image class="img2" src="/common/images/eatime/plus.png"></image>
+                    </div>
+                </div>
+                <div class="con4">
+                    <text class="text1">结束时间</text>
+                    <div>
+                        <text class="text7">长期吃</text>
+                        <text class="text7">吃一周</text>
+                        <text class="text7">吃完为止</text>
+                    </div>
+                    <text class="text8">都不是此药结束吃药时间？手动输入时间：</text>
+                    <div class="con3">
+                        <text class="text4">一共吃</text>
+                        <text class="text5">5</text>
+                        <text class="text6">天</text>
+                        <image class="img2" src="/common/images/eatime/plus.png"></image>
+                    </div>
+                    <div class="con4">
+                        <text class="text1">详细要求</text>
+                        <div class="con5">
+                            <text class="text9">每隔八小时</text>
+                            <text class="text10">空腹吃</text>
+                            <text class="text11">睡前吃</text>
+                            <text class="text12">饭前吃</text>
+                            <text class="text13">饭后吃</text>
+                            <text class="text14">餐时吃</text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button onclick="onclick">完成，下一步</button>
+</div>

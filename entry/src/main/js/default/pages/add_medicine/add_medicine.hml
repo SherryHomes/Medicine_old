@@ -1,0 +1,15 @@
+<div class="container">
+   <div>
+       <text class="text-left" onclick="back">返回</text>
+       <text class="text-center">智能识别</text>
+       <text class="text-right">不见</text>
+   </div>
+    <div class="square">
+        <image src="/common/images/add_medicine.png"></image>
+    </div>
+    <div class="three">
+        <button class="button1">相册选择</button>
+        <button class="button2" onclick="onclick">识别</button>
+        <button class="button3" onclick="onclick2">手动输入</button>
+    </div>
+</div>

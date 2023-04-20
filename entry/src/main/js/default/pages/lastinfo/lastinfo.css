@@ -1,0 +1,146 @@
+.container {
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+/*    top: 24px;*/
+    margin: 21px 16px;
+/*    border: 1px;*/
+}
+.text-left {
+    flex:1;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.text-center {
+    flex: 1;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.text-right{
+    flex:1;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: right;
+    opacity: 0;
+}
+.big{
+    width: 100%;
+/*    border: 1px;*/
+    flex-direction: column;
+    margin-top: 8px;
+}
+.con1{
+    align-items: center;
+}
+.circle{
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    background-color: rgba(204, 204, 204, 1);
+    margin-right: 14px;
+}
+.text1{
+    font-size: 24px;
+    font-weight: 400;
+}
+.con2{
+    margin-left: 35px;
+/*    border: 1px;*/
+    width: 100%;
+    align-items: center;
+}
+.text2{
+    font-size: 24px;
+    font-weight: 700;
+    height: 35px;
+}
+.text3{
+    width: 50px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgba(128, 128, 128, 1);
+    background-color: rgba(212, 48, 48, 0.1);
+    text-align: center;
+    margin-left: 13px;
+    border-radius: 4px;
+}
+.text4{
+    width: 50px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    background-color: rgba(32, 134, 250, 1);
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 4px;
+}
+.con3{
+    align-items: center;
+    margin-top: 14px;
+}
+.con4{
+    flex-direction: column;
+    margin-left: 35px;
+}
+.text5{
+    width: 90px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: rgba(32, 134, 250, 0.1);
+    text-align: center;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+.text6{
+    width: 110px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color:rgba(255, 141, 26, 0.1);
+    text-align: center;
+    border-radius: 4px;
+}
+.text7{
+    width: 110px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: rgba(32, 134, 250, 0.1);
+    text-align: center;
+    border-radius: 4px;
+}
+.con5{
+    margin-bottom: 10px;
+}
+.img{
+    width: 216px;
+    height: 162px;
+    margin-left: 35px;
+}
+.button{
+    width: 172px;
+    height: 45px;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 8px;
+    background-color: rgba(32, 134, 250, 1);
+    box-shadow: 3px 3px 10px #888888;
+    position: fixed;
+    bottom: 10px;
+    left:95px;
+    justify-content: center;
+}
+.text{
+    color: white;
+}
+.img2{
+    width: 18px;
+    object-fit: contain;
+    margin-right: 8px;
+}

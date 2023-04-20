@@ -1,0 +1,75 @@
+<div class="container">
+<div class="container">
+    <div class="title">
+        <text class="back" onclick="back">
+            返回
+        </text>
+        <text class="main">
+            消息通知
+        </text>
+        <text class="jus">
+            1
+        </text>
+    </div>
+        <div class="subtilte">
+        <text class="information">
+            健康通知
+        </text>
+        <text class="edit">
+            1
+        </text>
+    </div>
+    <div class="select-area">
+        <div class="select">
+            <text class="tl">
+                吃药通知
+            </text>
+      <switch>
+
+        </switch>
+        </div>
+        <div class="select">
+            <text class="tl">
+                久坐提醒
+            </text>
+      <switch>
+
+        </switch>
+        </div>
+                <div class="select">
+            <text class="tl">
+                喝水提醒
+            </text>
+      <switch>
+
+        </switch>
+        </div>
+                <div class="select">
+            <text class="tl">
+                身体数据异常提醒
+            </text>
+      <switch>
+
+        </switch>
+        </div>
+    </div>
+        <div class="subtilte">
+        <text class="information">
+            系统通知
+        </text>
+        <text class="edit">
+            1
+        </text>
+    </div>
+    <div class="select-area">
+        <div class="select">
+            <text class="tl">
+                更新提醒
+            </text>
+      <switch>
+
+        </switch>
+        </div>
+    </div>
+</div>
+</div>

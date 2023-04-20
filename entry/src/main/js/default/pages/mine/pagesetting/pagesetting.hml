@@ -1,0 +1,48 @@
+<div class="container">
+    <div class="title">
+        <text class="back" onclick="back">
+            返回
+        </text>
+        <text class="main">
+            设置
+        </text>
+        <text class="jus">
+            1
+        </text>
+    </div>
+    <div class="select-area">
+        <div class="select">
+            <text class="tl" onclick="onclick1">
+                消息通知
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl" onclick="onclick2">
+                设备管理
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl">
+                反馈
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+        <div class="select">
+            <text class="tl" onclick="onclick3">
+                绑定手机
+            </text>
+            <text class="tr">
+                >
+            </text>
+        </div>
+    </div>
+</div>
+
